@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4rtur8</title>
+    <link>/</link>
+    <description>Recent content on 4rtur8</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Nov 2020 16:19:24 -0600</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 28 Nov 2020 16:19:24 -0600</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hola soy yo Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum dictum tortor at suscipit. Aenean at posuere nisl. Vestibulum iaculis nisl ut molestie fermentum. Morbi ac quam ex. Nam dignissim sagittis sapien, fermentum auctor nibh rhoncus eget. Nullam eget tempor velit. In rutrum odio eros, molestie rhoncus nunc laoreet ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed velit ligula, iaculis eget tincidunt eu, faucibus eu libero.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/posts/about/</link>
+      <pubDate>Sat, 28 Nov 2020 16:19:06 -0600</pubDate>
+      
+      <guid>/posts/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elbueno</title>
+      <link>/posts/elbueno/</link>
+      <pubDate>Sat, 28 Nov 2020 16:08:56 -0600</pubDate>
+      
+      <guid>/posts/elbueno/</guid>
+      <description>Sera el bueno ? </description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>/showcase/</link>
+      <pubDate>Sat, 28 Nov 2020 16:01:03 -0600</pubDate>
+      
+      <guid>/showcase/</guid>
+      <description>hOLA SOY EL CHOWCASE Maecenas mattis sem non nunc volutpat consequat. Curabitur eget tincidunt lorem, sit amet volutpat orci. Vestibulum cursus, ante at tincidunt laoreet, urna ipsum ullamcorper nisl, sed pulvinar nisl lectus in quam. Nullam maximus urna sed viverra cursus. Etiam sem felis, blandit vitae elementum sed, egestas nec neque. Aliquam laoreet diam sed urna egestas dictum. Nunc luctus metus diam, vel auctor ex feugiat in. Morbi nec sem id metus luctus bibendum.</description>
+    </item>
+    
+  </channel>
+</rss>
